@@ -1,0 +1,22 @@
+.button {
+    margin-top: 16px;
+    background: #FBBF23;
+    border-radius: 8px;
+    width: 100%;
+    padding: 14px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+.button:hover {
+    opacity: 0.8;
+    border: 1px solid #000000;
+}
+.white {
+    background: white;
+    border: 1px solid rgba(97, 165, 250, 1)
+}
